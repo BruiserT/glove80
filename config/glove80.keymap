@@ -184,7 +184,7 @@
 &kp EQUAL  &kp N1    &kp N2   &kp N3          &kp N4           &kp N5                                                                  &kp N6  &kp N7        &kp N8          &kp N9            &kp N0             &kp MINUS
 &kp TAB    &kp Q     &kp W    &kp F           &kp P            &kp B                                                                   &kp J   &kp L         &kp U           &kp Y             &kp SEMI           &kp I
 &kp ESC    &kp A     &kp R    &kp S           &kp T            &kp G                                                                   &kp M   &kp N         &kp E           &kp I             &kp O              &kp SINGLE_QUOTE
-&kp GRAVE  &kp Z     &kp X    &kp C           &kp V            &kp D   &kp LSHFT  &kp LCTRL  &trans    &kp RGUI  &kp RCTRL  &kp RSHFT  &kp K   &kp H         &kp COMMA       &kp DOT           &kp FSLH           &kp PAGE_UP
+&kp GRAVE  &kp Z     &kp X    &kp C           &kp D            &kp V   &kp LSHFT  &kp LCTRL  &trans    &kp RGUI  &kp RCTRL  &kp RSHFT  &kp K   &kp H         &kp COMMA       &kp DOT           &kp FSLH           &kp PAGE_UP
 &trans     &kp HOME  &kp END  &kp LEFT_ARROW  &kp RIGHT_ARROW          &kp BSPC   &trans     &kp LALT  &kp RALT  &kp ENTER  &kp SPACE          &kp UP_ARROW  &kp DOWN_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PAGE_DOWN
             >;
         };
