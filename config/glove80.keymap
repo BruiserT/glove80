@@ -180,12 +180,12 @@
 
         Colemak-DH {
             bindings = <
-&kp F1     &kp F2    &kp F3   &kp F4          &kp F5                                                                                           &kp F6        &kp F7          &kp F8            &kp F9             &kp F10
-&kp EQUAL  &kp N1    &kp N2   &kp N3          &kp N4           &kp N5                                                                  &kp N6  &kp N7        &kp N8          &kp N9            &kp N0             &kp MINUS
-&kp TAB    &kp Q     &kp W    &kp F           &kp P            &kp B                                                                   &kp J   &kp L         &kp U           &kp Y             &kp SEMI           &kp I
-&kp ESC    &kp A     &kp R    &kp S           &kp T            &kp G                                                                   &kp M   &kp N         &kp E           &kp I             &kp O              &kp SINGLE_QUOTE
-&kp GRAVE  &kp Z     &kp X    &kp C           &kp D            &kp V   &kp LSHFT  &kp LCTRL  &trans    &kp RGUI  &kp RCTRL  &kp RSHFT  &kp K   &kp H         &kp COMMA       &kp DOT           &kp FSLH           &kp PAGE_UP
-&trans     &kp HOME  &kp END  &kp LEFT_ARROW  &kp RIGHT_ARROW          &kp BSPC   &trans     &kp LALT  &kp RALT  &kp ENTER  &kp SPACE          &kp UP_ARROW  &kp DOWN_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PAGE_DOWN
+&trans  &trans  &trans            &trans              &trans                                                                                              &trans         &trans               &trans             &trans    &trans
+&trans  &kp N1  &kp N2            &kp N3              &kp N4         &kp N5                                                            &kp N6             &kp N7         &kp N8               &kp N9             &kp N0    &trans
+&trans  &kp Q   &kp W             &kp F               &kp P          &kp B                                                             &kp J              &kp L          &kp U                &kp Y              &kp SEMI  &trans
+&trans  &kp A   &hrml LEFT_ALT R  &hrml LEFT_SHIFT S  &hrml LCTRL T  &hrml LEFT_GUI G                                                  &hrmr RIGHT_GUI M  &hrmr RCTRL N  &hrmr RIGHT_SHIFT E  &hrmr RIGHT_ALT L  &kp O     &trans
+&trans  &kp Z   &kp X             &kp C               &kp D          &kp V             &trans  &trans  &trans  &trans  &trans  &trans  &kp K              &kp H          &kp COMMA            &kp DOT            &kp FSLH  &trans
+&trans  &trans  &trans            &trans              &trans                           &trans  &trans  &trans  &trans  &trans  &trans                     &trans         &trans               &trans             &trans    &trans
             >;
         };
     };
